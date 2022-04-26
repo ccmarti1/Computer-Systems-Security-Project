@@ -24,7 +24,4 @@ Metasploitable:Daniel
 
 Operating Systems:
 
-Kali Linux
-Fedora
-CentOS
-Metasploitable
+Kali Linux, Fedora, CentOS, and Metasploitable
