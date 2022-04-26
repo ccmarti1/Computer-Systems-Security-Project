@@ -16,13 +16,14 @@ Devon will be using OpenVAS, and Daniel will be using Metasploit.
 
 Softwares:
 
-Nessus:Candan,
+Nessus:Candan
 
-OpenVAS:Devon,
+OpenVAS:Devon
 
 Metasploitable:Daniel
 
 Operating Systems:
+
 Kali Linux
 Fedora
 CentOS
