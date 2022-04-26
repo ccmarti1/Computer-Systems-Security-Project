@@ -1,6 +1,9 @@
 Computer Systems Security Group Project
+
 Date:Febuary 1st - April 27th
+
 Team Members: Candan(Leader), Daniel, Devon
+
 Description:
 
 The purpose of this project is to test the efficiency of detecting vulnerabilities using OpenVAS, 
@@ -12,8 +15,11 @@ so we wanted to compare its security to Fedora and Metasploitable. Candan will b
 Devon will be using OpenVAS, and Daniel will be using Metasploit.
 
 Softwares:
-Nessus:Candan
-OpenVAS:Devon
+
+Nessus:Candan,
+
+OpenVAS:Devon,
+
 Metasploitable:Daniel
 
 Operating Systems:
